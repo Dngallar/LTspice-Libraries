@@ -1,2 +1,7 @@
-# LTspice-Libraries
-Compilation of LTspice Libraries
+# LTspice Models
+
+**Note:** Under construction.
+
+Collection of LTSpice models
+
+
